@@ -7,7 +7,7 @@
 
     <!-- versionCode is optional and Android only -->
 
-    <name>LeafletMap</name>
+    <name>Berlin-Routing</name>
 
     <description>
         An example for phonegap build docs. 
